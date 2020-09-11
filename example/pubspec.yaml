@@ -1,0 +1,17 @@
+name: example
+description: Flutter CalendarX Example
+version: 1.0.0+1
+
+dependencies:
+  calendarx:
+    path: ../
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  intl: ^0.16.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,20 @@
+name: calendarx
+version: 0.0.1
+description: Calendar widget
+author: Pavel Kozlovskiy <pavel2033@gmail.com>
+homepage:
+repository:
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  intl: ">=0.1.0 <0.17.0"
+  date_utils: ^0.1.0+3
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
